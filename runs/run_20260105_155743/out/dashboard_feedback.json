@@ -1,0 +1,17 @@
+﻿{
+    "summary":  [
+                    "AZOTH v1.7 run sealed.",
+                    "Triadic sensory optima computed and hashed.",
+                    "Ω-basin test executed; omega_ok=",
+                    "True",
+                    ".",
+                    "Artifacts integrity captured via Root Reflection."
+                ],
+    "protocol":  "dashboard_feedback",
+    "run_id":  "run_20260105_155743",
+    "safe_notes":  [
+                       "Deterministic observatory. No agents. No autonomy.",
+                       "Glyphs are descriptive compression only."
+                   ],
+    "system":  "AZOTH"
+}

@@ -1,0 +1,21 @@
+﻿{
+    "timestamp":  "2026-01-05T15:57:44.318676Z",
+    "version":  "1.7",
+    "files":  {
+                  "glyph":  "runs/run_20260105_155743/out/azoth_glyph_state.json",
+                  "omega_scatter":  "runs/run_20260105_155743/visuals/omega_scatter.png",
+                  "omega":  "runs/run_20260105_155743/out/azoth_omega_state.json",
+                  "reflection":  "runs/run_20260105_155743/out/root_reflection.json",
+                  "state":  "runs/run_20260105_155743/out/azoth_state.json"
+              },
+    "run_id":  "run_20260105_155743",
+    "metrics":  {
+                    "lambda_std":  1.9637364115616394,
+                    "H7":  0.7,
+                    "C_effective":  4.993451322274443,
+                    "omega_ok":  true,
+                    "C_std":  0.01033552756931074
+                },
+    "system":  "AZOTH",
+    "protocol":  "dashboard_state"
+}

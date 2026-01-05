@@ -1,0 +1,42 @@
+﻿{
+    "artifacts":  [
+                      {
+                          "path":  "C:\\Users\\jacks\\OneDrive\\Desktop\\Azoth\\engine\\azoth_engine_v1_7.py",
+                          "sha256":  "1f46e0518ae43fdbc39e7c3be71e48de387b3aba48d3efc33750b273a5005edf",
+                          "bytes":  1115
+                      },
+                      {
+                          "path":  "C:\\Users\\jacks\\OneDrive\\Desktop\\Azoth\\state\\azoth_state.json",
+                          "sha256":  "e8e8a25c31382bfb4d126c085e99b24670822ffd32ef909fca79803b3567dc58",
+                          "bytes":  572
+                      },
+                      {
+                          "path":  "C:\\Users\\jacks\\OneDrive\\Desktop\\Azoth\\state\\azoth_omega_state.json",
+                          "sha256":  "7a47f6a1357c06e68809fcc45271f68764dbae49123fc5fcdb01ad406f347f95",
+                          "bytes":  234
+                      },
+                      {
+                          "path":  "C:\\Users\\jacks\\OneDrive\\Desktop\\Azoth\\glyph\\azoth_glyph_state.json",
+                          "sha256":  "b968f8aeb2acd4a537d2b41150e8ff533952c2051aa7ccb7ab54e3d64544fee1",
+                          "bytes":  509
+                      },
+                      {
+                          "path":  "C:\\Users\\jacks\\OneDrive\\Desktop\\Azoth\\runs\\run_20260105_155743\\visuals\\omega_scatter.png",
+                          "sha256":  "51588b7775b0012f937e7c5bc4070a4edd5b29ce3c85520f134288a960b912db",
+                          "bytes":  12568
+                      }
+                  ],
+    "version":  "1.7",
+    "run_id":  "run_20260105_155743",
+    "tools":  {
+                  "python":  "C:\\Program Files\\Python312\\python.exe",
+                  "git":  "C:\\Program Files\\Git\\cmd\\git.exe"
+              },
+    "timestamp_utc":  "2026-01-05T15:57:46.0594226Z",
+    "state":  {
+                  "C_effective":  4.993451322274443,
+                  "omega_ok":  true,
+                  "hash":  "7b2eea0e22544077d5204735611929a82f4f5f9c8baa3d5b35c2e018aef44279"
+              },
+    "protocol":  "AzothRootReflection"
+}
