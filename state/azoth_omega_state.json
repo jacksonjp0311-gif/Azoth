@@ -1,0 +1,6 @@
+{
+  "protocol": "AzothOmegaBasin",
+  "runs": 64,
+  "lambda_std": 2.0286255836539326,
+  "C_std": 0.009992553604172814
+}

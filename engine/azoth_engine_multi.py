@@ -1,4 +1,4 @@
-﻿import numpy as np, json, hashlib, datetime, matplotlib.pyplot as plt
+﻿import numpy as np, json, hashlib, datetime, random, matplotlib.pyplot as plt
 
 def channel(lam, center, width, noise):
     F = np.exp(-0.5*((lam-center)/width)**2)
@@ -19,7 +19,7 @@ channels = {
 
 state = {
   "protocol": "AzothTriadicSensory",
-  "version": "1.2",
+  "version": "1.5",
   "timestamp": datetime.datetime.utcnow().isoformat()+"Z",
   "channels": {},
   "H7": 0.70
