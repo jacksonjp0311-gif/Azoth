@@ -1,0 +1,13 @@
+﻿{
+    "version":  "1.0",
+    "lambda_star":  549.791492910759,
+    "timestamp":  "2026-01-05T15:31:42.8216689Z",
+    "glyphs":  {
+                   "FIELD":  "⧉λ",
+                   "AZOTH":  "𓂀AZ",
+                   "H7":  "∿0.70"
+               },
+    "score":  3.9921149465535777,
+    "intent":  "azoth_universal_sensory_optima_all_one_v1",
+    "protocol":  "AzothGlyphCompressed"
+}
