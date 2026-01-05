@@ -1,0 +1,11 @@
+﻿{
+    "timestamp_utc":  "2026-01-05T21:27:54.7258228Z",
+    "protocol":  "AzothRootReflection",
+    "run_id":  "run_20260105_162753",
+    "version":  "1.8",
+    "state":  {
+                  "omega_pass":  null,
+                  "sha256":  null,
+                  "C_effective":  null
+              }
+}

@@ -1,12 +1,8 @@
 {
-  "protocol": "AzothOmegaBasin",
-  "version": "1.7",
-  "runs": 96,
-  "lambda_std": 1.9637364115616394,
-  "C_std": 0.01033552756931074,
-  "omega_ok": true,
-  "gate": {
-    "lambda_std_max": 3.5,
-    "C_std_max": 0.02
-  }
+  "protocol": "AzothOmegaGate",
+  "version": "1.8",
+  "runs": 64,
+  "lambda_std": 1.7870188475165194,
+  "C_std": 0.011554474820860628,
+  "PASS": true
 }

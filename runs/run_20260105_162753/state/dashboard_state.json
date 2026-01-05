@@ -1,0 +1,15 @@
+﻿{
+    "timestamp":  null,
+    "version":  "1.8",
+    "run_id":  "run_20260105_162753",
+    "metrics":  {
+                    "omega_pass":  false,
+                    "H7":  0.7,
+                    "C_effective":  null,
+                    "lambda_std":  null,
+                    "C_std":  null
+                },
+    "intent":  "azoth_all_one_v1_8_root_reflection_dir_map",
+    "system":  "AZOTH",
+    "protocol":  "dashboard_state"
+}
