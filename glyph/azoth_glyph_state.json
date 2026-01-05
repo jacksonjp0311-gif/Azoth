@@ -1,13 +1,13 @@
 {
-    "version":  "1.5",
-    "hash":  "9a068c5218ffa78d92d5cd694b636c2b71dff46a17ac4dd31377aaeeff1e5f33",
+    "version":  "1.6",
+    "hash":  "19bfee7cfcee5698946d6ad85aa5a91716100e617d611c3cdff6368387070122",
     "glyphs":  {
                    "AZOTH":  "??AZ",
                    "H7":  "?0.70",
                    "OMEGA":  "O",
                    "TRIAD":  "??"
                },
-    "intent":  "azoth_all_one_v1_5_full_stack",
+    "intent":  "azoth_all_one_v1_6_omega_stable",
     "C_effective":  4.993451322274443,
     "protocol":  "AzothGlyph"
 }
