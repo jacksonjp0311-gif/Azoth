@@ -1,14 +1,12 @@
-﻿{
-    "intent":  "azoth_universal_sensory_optima_all_one_v1_1",
-    "timestamp":  "2026-01-05T15:35:59.667938Z",
-    "lambda_star":  549.791492910759,
-    "version":  "1.1",
-    "protocol":  "AzothGlyphCompressed",
-    "score":  3.9921149465535777,
+{
+    "version":  "1.2",
+    "hash":  "448a3b53600abffe510ea332f1af9b5ed4466bf8036be1af1c1f5a8356e059b5",
     "glyphs":  {
-                   "FIELD":  "⧉λ",
-                   "AZOTH":  "𓂀AZ",
-                   "H7":  "∿0.70"
+                   "AZOTH":  "??AZ",
+                   "H7":  "?0.70",
+                   "TRIAD":  "??"
                },
-    "hash":  "04ef16ff9dd801630445a51e270592e0bba8179ecb866e18c72602e3e2b98c9a"
+    "intent":  "azoth_all_one_v1_2_triadic_drift",
+    "C_effective":  4.993451322274443,
+    "protocol":  "AzothGlyph"
 }
