@@ -1,0 +1,26 @@
+﻿{
+    "topology":  {
+                     "run_authoritative":  "runs/run_20260105_163127/state",
+                     "global_mirrors":  [
+                                            "state",
+                                            "public"
+                                        ]
+                 },
+    "protocol":  "AzothDirectoryManifest",
+    "run_id":  "run_20260105_163127",
+    "version":  "1.9",
+    "files":  [
+                  ".\\runs\\run_20260105_163127\\dashboard",
+                  ".\\runs\\run_20260105_163127\\engine",
+                  ".\\runs\\run_20260105_163127\\glyph",
+                  ".\\runs\\run_20260105_163127\\public",
+                  ".\\runs\\run_20260105_163127\\state",
+                  ".\\runs\\run_20260105_163127\\visuals",
+                  ".\\runs\\run_20260105_163127\\engine\\azoth_engine_v1_9.py",
+                  ".\\runs\\run_20260105_163127\\engine\\azoth_omega_gate_v1_9.py",
+                  ".\\runs\\run_20260105_163127\\state\\azoth_omega_state.json",
+                  ".\\runs\\run_20260105_163127\\state\\azoth_state.json",
+                  ".\\runs\\run_20260105_163127\\state\\dashboard_state.json",
+                  ".\\runs\\run_20260105_163127\\state\\root_reflection.json"
+              ]
+}
