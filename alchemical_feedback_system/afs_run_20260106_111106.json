@@ -1,0 +1,8 @@
+﻿{
+    "regime_hash":  "8a02b7d6c34061b2b79b6d8084f204b4acb2a9bd1e781bc7c85d1f57686532c1",
+    "version":  "1.4",
+    "guidance":  "Continue sampling. Do not mutate kernel.",
+    "run_id":  "run_20260106_111106",
+    "stability":  "GENESIS",
+    "protocol":  "AlchemicalFeedbackSystem"
+}
