@@ -1,7 +1,7 @@
 {
   "protocol": "AzothUniversalSensoryOptima",
   "version": "2.2",
-  "timestamp": "2026-01-06T15:04:47.810866Z",
+  "timestamp": "2026-01-06T15:02:18.509311Z",
   "H7": 0.7,
   "channels": {
     "photon": {
@@ -22,6 +22,6 @@
   },
   "C_effective": 0.6410017379438014,
   "regime_hash": "73ed8776fcd0bdded545cd20ce5791898348152a159d0de06237d33ae48361f8",
-  "sha256": "50e7c8fe5f2199adf3fe5d07e35e223bd2b42fc817ab32199b5102425a1d4586",
+  "sha256": "0866a0db0c56323c339163414f2645deefa49d45cd29b17b49dc45c106e9bbe8",
   "bytes": 571
 }
