@@ -1,0 +1,45 @@
+﻿{
+    "hashes":  {
+                   "mirror_state_file_sha256":  "75946e1683596e905176ab1c1330d5b5d6b7ac246aa29ed69a1bbf7a06caed55",
+                   "reflection_file_sha256":  "8d39821ebfb02ace71cfd0377c990cae3a6f809496b22a0f060b4f75af5b04ef",
+                   "state_file_sha256":  "75946e1683596e905176ab1c1330d5b5d6b7ac246aa29ed69a1bbf7a06caed55",
+                   "lineage_hash":  "18466b941fb583a98c1fa0b43e7d5a34975e1e49dceacaed79e60c64d357c070",
+                   "state_sha256":  "9dc6d345414534162124b7a7c766c7df79c7addb91101ce9fe69fa5ef5e47d99",
+                   "mirror_reflection_file_sha256":  "8d39821ebfb02ace71cfd0377c990cae3a6f809496b22a0f060b4f75af5b04ef",
+                   "prev_sha256":  "09ea8d6e621516f97fff28441881da9104bbee5d98d20e29b3a8ea297a8f8d64"
+               },
+    "version":  "1.0",
+    "run_id":  "run_20260106_102904",
+    "regime_hash":  "7a65b99aa4892bc364b3913a335d6f43dda2c1f980c3872b7ab8464fd3f01658",
+    "timestamp":  "2026-01-06T15:29:07.2834537Z",
+    "window":  {
+                   "meanC":  null,
+                   "used":  0,
+                   "stdC":  null,
+                   "zscore":  null,
+                   "regime_count":  0,
+                   "size":  5
+               },
+    "stability_mode":  "GENESIS",
+    "flags":  [
+                  "CLEAN"
+              ],
+    "azoth_version":  "2.4",
+    "guidance":  [
+                     "No critical flags. Continue accumulating runs; promote to stable once window σ remains bounded."
+                 ],
+    "protocol":  "AlchemicalFeedbackSystem",
+    "metrics":  {
+                    "triad":  {
+                                  "C":  6.0505720958880307,
+                                  "E":  9.9961401702009756,
+                                  "I":  0.64100186956967276
+                              },
+                    "H7_alignment":  0,
+                    "deltaC_from_prev":  2.1459185701352697,
+                    "dphi_proxy":  0.0589981304303272,
+                    "C":  6.0505720958880307,
+                    "H7":  0.7
+                },
+    "rootmirror_ok":  true
+}
