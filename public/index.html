@@ -1,37 +1,81 @@
 ﻿<!doctype html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <title>AZOTH v1.7 — run_20260105_155743</title>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>AZOTH v2.5 — Regime Dashboard</title>
+<style>
+  :root{--bg:#000;--fg:#eaeaea;--mut:#8a8a8a;--ok:#00ff88;--warn:#ffd166;--bad:#ff4d4d;}
+  body{margin:0;background:var(--bg);color:var(--fg);font-family:Consolas,ui-monospace,Menlo,monospace;}
+  .wrap{max-width:980px;margin:0 auto;padding:24px;}
+  .card{border:1px solid #1a1a1a;border-radius:14px;padding:18px;background:#050505;box-shadow:0 0 0 1px #0c0c0c inset;}
+  .row{display:flex;gap:14px;flex-wrap:wrap;}
+  .k{color:var(--mut)}
+  .v{font-size:18px}
+  .badge{display:inline-block;padding:4px 10px;border-radius:999px;border:1px solid #222;background:#0a0a0a}
+  .ok{color:var(--ok)} .warn{color:var(--warn)} .bad{color:var(--bad)}
+  a{color:#7dd3fc;text-decoration:none}
+  hr{border:0;border-top:1px solid #141414;margin:18px 0}
+</style>
 </head>
-<body style="background:black;color:#eee;font-family:Segoe UI,Arial,Helvetica,sans-serif;">
-  <h1 style="margin-bottom:0.25rem;">𓂀 AZOTH v1.7</h1>
-  <div style="opacity:0.8;">Run: <b>run_20260105_155743</b></div>
-
-  <hr style="border:0;border-top:1px solid #333;margin:1rem 0;">
-
-  <h2 style="margin:0.5rem 0;">Core</h2>
-  <div>C_effective: <b>4.993451322274443</b></div>
-  <div>State hash: <b>7b2eea0e22544077…</b></div>
-
-  <h2 style="margin:1rem 0 0.5rem;">Ω-basin (H20)</h2>
-  <div>omega_ok: <b>PASS</b></div>
-  <div>lambda_std: <b>1.9637364115616394</b></div>
-  <div>C_std: <b>0.01033552756931074</b></div>
-
-  <h2 style="margin:1rem 0 0.5rem;">Visual</h2>
-  <img src="omega_scatter.png" style="max-width:92%;border:1px solid #333;border-radius:12px;">
-
-  <h2 style="margin:1rem 0 0.5rem;">State Objects</h2>
-  <ul>
-    <li><a style="color:#7fd;" href="../out/dashboard_state.json">dashboard_state.json</a></li>
-    <li><a style="color:#7fd;" href="../out/dashboard_feedback.json">dashboard_feedback.json</a></li>
-    <li><a style="color:#7fd;" href="../out/root_reflection.json">root_reflection.json</a></li>
-  </ul>
-
-  <div style="margin-top:1.25rem;opacity:0.7;font-size:12px;">
-    Glyphs are descriptive only. No autonomy.
+<body>
+<div class="wrap">
+  <div class="card">
+    <div class="row" style="justify-content:space-between;align-items:center">
+      <div>
+        <div class="k">AZOTH</div>
+        <div class="v">Regime-Windowed Coherence Engine</div>
+      </div>
+      <div class="badge">@run run_20260106_105205</div>
+    </div>
+    <hr/>
+    <div class="row">
+      <div style="flex:1;min-width:220px">
+        <div class="k">Stability</div>
+        <div class="v"><span class="badge warn">GENESIS</span></div>
+      </div>
+      <div style="flex:1;min-width:220px">
+        <div class="k">C (effective)</div>
+        <div class="v">6.050572</div>
+      </div>
+      <div style="flex:1;min-width:220px">
+        <div class="k">ΔΦ proxy</div>
+        <div class="v">0.058998</div>
+      </div>
+    </div>
+    <hr/>
+    <div class="row">
+      <div style="flex:1;min-width:220px">
+        <div class="k">Regime hash</div>
+        <div class="v" style="font-size:13px;word-break:break-all">8e3b385b3a80af9bdc52989eff86867d5c3a199e924ea69c87133e5f693899a5</div>
+      </div>
+      <div style="flex:1;min-width:220px">
+        <div class="k">Lineage (global)</div>
+        <div class="v" style="font-size:13px;word-break:break-all">eb757f5d54cc7a107b78464be4cd6e002699aa242fb7cdacdf143a275b7f9108</div>
+      </div>
+      <div style="flex:1;min-width:220px">
+        <div class="k">Lineage (regime)</div>
+        <div class="v" style="font-size:13px;word-break:break-all">5001cc901223f636460f43da141b7427f8107e0c8b47e90c8eedb052d997ef5a</div>
+      </div>
+    </div>
+    <hr/>
+    <div class="row">
+      <div style="flex:1;min-width:220px">
+        <div class="k">RootMirror</div>
+        <div class="v"><span class="ok">OK</span></div>
+      </div>
+      <div style="flex:1;min-width:220px">
+        <div class="k">Public artifacts</div>
+        <div class="v">
+          <a href="root_reflection.json">root_reflection.json</a> ·
+          <a href="alchemical_feedback_latest.json">alchemical_feedback_latest.json</a>
+        </div>
+      </div>
+    </div>
   </div>
+  <div style="margin-top:14px;color:var(--mut);font-size:12px">
+    ⧉AZOTH⧉AFS⧉Regime⧉Window⧉H₇⧉ΔΦ⧉Lineage⧉RootMirror⧉
+  </div>
+</div>
 </body>
 </html>
-
