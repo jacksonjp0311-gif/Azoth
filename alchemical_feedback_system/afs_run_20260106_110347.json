@@ -1,0 +1,10 @@
+﻿{
+    "C":  null,
+    "run_id":  "run_20260106_110347",
+    "regime_hash":  null,
+    "version":  "1.3",
+    "guidance":  "Continue sampling. Do not mutate kernel.",
+    "dphi":  null,
+    "protocol":  "AlchemicalFeedbackSystem",
+    "stability":  "LONGITUDINAL_UNSTABLE"
+}
