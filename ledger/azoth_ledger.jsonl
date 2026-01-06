@@ -24,3 +24,4 @@
 {"regime_hash":null,"lineage":"2f4100a2ebf5abf3825e51999b4a2f87d3824635f032a3a6bbbc5fb62125ba91","dphi":null,"timestamp":null,"sha256":null,"C":null,"run_id":"run_20260106_110347"}
 {"regime_hash":"8a02b7d6c34061b2b79b6d8084f204b4acb2a9bd1e781bc7c85d1f57686532c1","lineage":"88600ba77c17389bcff6c672cf272c69d73843451e4d181b88230d5ca2c66af4","dphi":0.0589981304303272,"timestamp":"2026-01-06T16:11:07.362912Z","sha256":"e323e43738d6b2c1698ac72ae9a89c9ac97340aa8bfa4b6f3fb70b0de6e8df96","C":6.050572095888031,"run_id":"run_20260106_111106"}
 {"regime_hash":null,"lineage":"88600ba77c17389bcff6c672cf272c69d73843451e4d181b88230d5ca2c66af4","dphi":null,"timestamp":null,"sha256":null,"C":null,"run_id":"run_20260106_112835"}
+{"run_id":"run_20260106_121402","timestamp":"2026-01-06T17:14:03.0438994Z","shadow_hash":"e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855","shadow_status":"GENESIS"}

@@ -1,0 +1,12 @@
+﻿{
+    "shadow_header":  {
+                          "hash_current":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                          "hash_previous":  "GENESIS",
+                          "status":  "GENESIS",
+                          "guidance":  "Genesis shadow state."
+                      },
+    "protocol":  "AlchemicalFeedbackSystem",
+    "run_id":  "run_20260106_115742",
+    "version":  "2.0",
+    "directive":  "Future code generation MUST follow and extend the shadow header. Do not truncate or compress it."
+}

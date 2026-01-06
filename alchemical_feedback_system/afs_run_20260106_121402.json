@@ -1,0 +1,24 @@
+﻿{
+    "version":  "2.7.1",
+    "shadow":  {
+                   "hash_current":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                   "status":  "GENESIS",
+                   "hash_previous":  "GENESIS",
+                   "directive":  "Future iterations MUST preserve and expand the shadow header."
+               },
+    "run_id":  "run_20260106_121402",
+    "code_guidance":  {
+                          "rule":  "Observation precedes evolution.",
+                          "allow_kernel_mutation":  false
+                      },
+    "directory_guidance":  {
+                               "note":  "Missing canonical directories must be created before extension.",
+                               "required":  [
+                                                "shadow",
+                                                "ledger",
+                                                "runs",
+                                                "alchemical_feedback_system"
+                                            ]
+                           },
+    "protocol":  "AlchemicalFeedbackSystem"
+}
