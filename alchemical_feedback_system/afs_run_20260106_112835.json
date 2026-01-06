@@ -1,0 +1,8 @@
+﻿{
+    "regime_hash":  null,
+    "version":  "1.5",
+    "guidance":  "Continue sampling. Kernel mutation prohibited.",
+    "run_id":  "run_20260106_112835",
+    "stability":  "LONGITUDINAL_UNSTABLE",
+    "protocol":  "AlchemicalFeedbackSystem"
+}
