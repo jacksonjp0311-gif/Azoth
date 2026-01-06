@@ -1,0 +1,24 @@
+{
+  "protocol": "AzothUniversalSensoryOptima",
+  "version": "2.1.1",
+  "timestamp": "2026-01-06T14:23:01.273095Z",
+  "H7": 0.7,
+  "channels": {
+    "photon": {
+      "lambda_star": 549.791492910759,
+      "score_norm": 0.0
+    },
+    "vibration": {
+      "lambda_star": 420.1000834028357,
+      "score_norm": 0.9999997944504765
+    },
+    "chemical": {
+      "lambda_star": 619.8498748957464,
+      "score_norm": 0.9230054193809281
+    }
+  },
+  "C_effective": 0.6410017379438014,
+  "regime_hash": "084357d02e4f8a63fb6fe1994031aefa5a6ca5a07784d8f0438f81dcc5cf1eba",
+  "sha256": "17434c93463abbb036316e2339886d07b00cded953961bab4c669ec17c1f7e38",
+  "bytes": 479
+}

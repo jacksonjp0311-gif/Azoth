@@ -1,0 +1,12 @@
+﻿{
+    "stability_mode":  "GENESIS",
+    "C_effective":  0.6410017379438014,
+    "regime_hash":  "084357d02e4f8a63fb6fe1994031aefa5a6ca5a07784d8f0438f81dcc5cf1eba",
+    "version":  "2.1.1",
+    "window_std":  null,
+    "window_mean":  null,
+    "sha256":  "17434c93463abbb036316e2339886d07b00cded953961bab4c669ec17c1f7e38",
+    "lineage_hash":  null,
+    "run_id":  "run_20260106_092300",
+    "protocol":  "AzothRootReflection"
+}
